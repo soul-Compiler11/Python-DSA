@@ -12,5 +12,5 @@ class Solution(object):
 
     a = 10
     b = 20
-    sum = a+b
-    print(sum)
+    subtract = a-b
+    print(subtract)
