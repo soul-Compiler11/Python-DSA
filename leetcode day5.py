@@ -9,3 +9,8 @@ class Solution(object):
             reverse = reverse*10 + digit
             x = x // 10
         return original == reverse
+
+    a = 10
+    b = 20
+    sum = a+b
+    print(sum)
