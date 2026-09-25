@@ -21,3 +21,7 @@ class Solution(object):
                 res += values[s[i]]
 
         return res
+
+    a = 12
+    b = 13
+    print(a + b)
