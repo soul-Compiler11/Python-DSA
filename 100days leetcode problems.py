@@ -23,15 +23,35 @@ class Solution(object):
 
         return res
 """
+"""
 # day 7 median of two sorted arrays
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
-        merged = sorted(nums1 + nums2)
-        n = len(merged)
-        if n % 2 == 1:
-            return merged[n // 2]
+        nums = sorted(nums1 + nums2)
+        n = len(nums)
+        if n % 2 == 0:
+            return (nums[n // 2 - 1] + nums[n // 2]) / 2.0
         else:
-            mid1 = merged[n // 2 - 1]
-            mid2 = merged[n // 2]
-            return (mid1 + mid2) / 2.0
-    
+            return nums[n // 2]
+"""
+# day 8 reverse integer
+class Solution(object):
+    def reverse(self, x):
+        sign = -1 if x < 0 else 1
+        x *= sign
+        reversed = 0
+
+        while x != 0:
+            digit = x % 10
+            reversed = reversed * 10 + digit
+            x //= 10
+
+        reversed *= sign
+
+        # Check for overflow
+        if reversed < -2**31 or reversed > 2**31 - 1:
+            return 0
+
+        return reversed
+
+
