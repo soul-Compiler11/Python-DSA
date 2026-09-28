@@ -45,7 +45,6 @@ print("Sum of digits:", total)
 """
 
 """question 5: reverse a number
-"""
 n = 1234
 reverse = 0 
 while n > 0 :
@@ -53,3 +52,18 @@ while n > 0 :
     reverse = reverse*10 + digt
     n //= 10
 print("Reverse of number:", reverse)
+"""
+
+"""question 6: check palindrome number
+"""
+n = 12321
+original = n
+reverse = 0
+while n > 0:
+    digit = n % 10 
+    reverse = reverse*10 +digit
+    n //=10
+if original == reverse:
+    print(f"{original} is a palindrome number")
+else:
+    print(f"{original} is not a palindrome number")
