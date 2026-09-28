@@ -36,6 +36,7 @@ print("Unique number:", ans)
 """
 """
 question 4: sum of digits
+
 n = 1234
 total = 0
 while n > 0:
@@ -45,6 +46,7 @@ print("Sum of digits:", total)
 """
 
 """question 5: reverse a number
+
 n = 1234
 reverse = 0 
 while n > 0 :
@@ -55,7 +57,7 @@ print("Reverse of number:", reverse)
 """
 
 """question 6: check palindrome number
-"""
+
 n = 12321
 original = n
 reverse = 0
@@ -67,3 +69,13 @@ if original == reverse:
     print(f"{original} is a palindrome number")
 else:
     print(f"{original} is not a palindrome number")
+"""
+
+"""question 7: count the number of digits in a number
+"""
+n = 1234
+count = 0
+while n > 0 :
+    n //= 10
+    count +=4
+print("Number of digits:", count)
