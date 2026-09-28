@@ -34,6 +34,7 @@ class Solution(object):
         else:
             return nums[n // 2]
 """
+"""
 # day 8 reverse integer
 class Solution(object):
     def reverse(self, x):
@@ -53,4 +54,20 @@ class Solution(object):
             return 0
 
         return reversed
+"""
 
+# day 9 largest common prefix
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        if not strs:
+            return ""
+
+        prefix = strs[0]
+
+        for i in range(1, len(strs)):
+            while strs[i].find(prefix) != 0:
+                prefix = prefix[:-1]
+                if not prefix:
+                    return ""
+
+        return prefix
