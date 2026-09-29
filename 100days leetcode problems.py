@@ -92,10 +92,10 @@ class Solution(object):
             (1, "I")
         ]
 
-        res = ""
+        Res = ""
         for value, symbol in values:
             while num >= value:
-                res += symbol
+                Res += symbol
                 num -= value
 
-        return res
+        return Res
