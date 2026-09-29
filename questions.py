@@ -72,10 +72,25 @@ else:
 """
 
 """question 7: count the number of digits in a number
-"""
+
 n = 1234
 count = 0
 while n > 0 :
     n //= 10
     count +=4
 print("Number of digits:", count)
+"""
+
+"""queston 8: check armstrong number
+"""
+n = 153
+original = n
+total = 0
+while n > 0:
+    digit = n % 10
+    total += digit ** 3
+    n //= 10
+if original == total:
+    print(f"{original} is an armstrong number")
+else:
+    print(f"{original} is not an armstrong number")
