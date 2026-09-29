@@ -55,7 +55,7 @@ class Solution(object):
 
         return reversed
 """
-
+"""
 # day 9 largest common prefix
 class Solution(object):
     def longestCommonPrefix(self, strs):
@@ -71,4 +71,31 @@ class Solution(object):
                     return ""
 
         return prefix
+"""
 
+# day 10 integer to roman
+class Solution(object):
+    def intToRoman(self, num):
+        values = [
+            (1000, "M"),
+            (900, "CM"),
+            (500, "D"),
+            (400, "CD"),
+            (100, "C"),
+            (90, "XC"),
+            (50, "L"),
+            (40, "XL"),
+            (10, "X"),
+            (9, "IX"),
+            (5, "V"),
+            (4, "IV"),
+            (1, "I")
+        ]
+
+        res = ""
+        for value, symbol in values:
+            while num >= value:
+                res += symbol
+                num -= value
+
+        return res
