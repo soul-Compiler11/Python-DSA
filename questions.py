@@ -107,7 +107,7 @@ while n > 0:
 print("Largest disgit in the number is: ", largest) 
 """
 
-"""question 10: smallest digit in a number"""
+"""question 10: smallest digit in a number
 n = 2590
 smallest = 9
 while n > 0:
@@ -116,3 +116,13 @@ while n > 0:
         smallest = digit
     n //= 10
 print("Smallest digit in the number is: ", smallest)
+"""
+
+"""question 11 : decimal to binary conversion """
+n = 123
+binary = ""
+while n > 0:
+    digit = n % 2
+    binary = str(digit) + binary
+    n //= 2
+print("Binary conversion is : ", binary)
