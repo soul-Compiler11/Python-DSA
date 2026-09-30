@@ -96,7 +96,7 @@ else:
     print(f"{original} is not an armstrong number")
 """
 
-""" question 9: largest digit in a number """
+""" question 9: largest digit in a number 
 n = 2594
 largest = 0
 while n > 0:
@@ -104,4 +104,15 @@ while n > 0:
     if digit > largest:
         largest = digit
     n //= 10
-print("Largest disgit in the number is: ", largest)
+print("Largest disgit in the number is: ", largest) 
+"""
+
+"""question 10: smallest digit in a number"""
+n = 2590
+smallest = 9
+while n > 0:
+    digit = n % 10
+    if digit < smallest:
+        smallest = digit
+    n //= 10
+print("Smallest digit in the number is: ", smallest)
