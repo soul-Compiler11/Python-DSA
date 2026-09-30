@@ -82,7 +82,7 @@ print("Number of digits:", count)
 """
 
 """queston 8: check armstrong number
-"""
+
 n = 153
 original = n
 total = 0
@@ -94,3 +94,14 @@ if original == total:
     print(f"{original} is an armstrong number")
 else:
     print(f"{original} is not an armstrong number")
+"""
+
+""" question 9: largest digit in a number """
+n = 2594
+largest = 0
+while n > 0:
+    digit = n % 10
+    if digit > largest:
+        largest = digit
+    n //= 10
+print("Largest disgit in the number is: ", largest)
