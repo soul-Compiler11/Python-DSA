@@ -118,7 +118,7 @@ while n > 0:
 print("Smallest digit in the number is: ", smallest)
 """
 
-"""question 11 : decimal to binary conversion """
+"""question 11 : decimal to binary conversion 
 n = 123
 binary = ""
 while n > 0:
@@ -126,3 +126,15 @@ while n > 0:
     binary = str(digit) + binary
     n //= 2
 print("Binary conversion is : ", binary)
+"""
+
+"""queston 12: product of digit 
+"""
+
+n = 1234
+product = 1
+while n > 0:
+    digit = n % 10
+    product *= digit
+    n //= 10
+print("product of digits in the number is : ", product)
