@@ -129,7 +129,6 @@ print("Binary conversion is : ", binary)
 """
 
 """queston 12: product of digit 
-"""
 
 n = 1234
 product = 1
@@ -138,3 +137,13 @@ while n > 0:
     product *= digit
     n //= 10
 print("product of digits in the number is : ", product)
+"""
+
+"""question 13: remove zero from a number in reverse order
+"""
+n = 100002000300405
+while n > 0:
+    digit = n % 10
+    if digit != 0:
+        print(digit, end=" ")
+    n //= 10
