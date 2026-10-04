@@ -140,10 +140,31 @@ print("product of digits in the number is : ", product)
 """
 
 """question 13: remove zero from a number in reverse order
-"""
 n = 100002000300405
 while n > 0:
     digit = n % 10
     if digit != 0:
         print(digit, end=" ")
     n //= 10
+"""
+
+"""question 14: lcm of two numbers
+"""
+def lcmOfTwoNumbers(x, y):
+   if x > y:
+       greater = x
+   else:
+       greater = y
+
+   while(True):
+       if((greater % x == 0) and (greater % y == 0)):
+           lcm = greater
+           break
+       greater += 1
+
+   return lcm
+
+num1 = 54
+num2 = 24
+
+print("The L.C.M. is", lcmOfTwoNumbers(num1, num2))
