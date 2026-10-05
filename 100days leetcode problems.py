@@ -176,7 +176,7 @@ class Solution(object):
             nums[i] = nums[i] + nums[i-1]
         return nums
 """
-
+"""
 # day 13 shuffle the array
 class Solution(object):
     def shuffle(self, nums, n):
@@ -185,3 +185,9 @@ class Solution(object):
             arr.append(nums[i])
             arr.append(nums[i+n])
         return arr
+"""
+
+# day 13 concatenation of array
+class Solution(object):
+    def getConcatenation(self, nums):
+        return nums + nums
