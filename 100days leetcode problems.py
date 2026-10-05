@@ -131,7 +131,7 @@ class Solution(object):
 
         return res
 """
-
+"""
 # day 12 longest palindromic substring
 class Solution(object):
     def longestPalindrome(self, s):
@@ -157,3 +157,12 @@ class Solution(object):
                 result = even
 
         return result
+"""
+
+# day 13 single number
+class solution(object):
+    def singleNumber(self, nums):
+        ans = 0
+        for num in nums:
+            ans ^= num
+        return ans

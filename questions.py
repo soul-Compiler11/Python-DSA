@@ -149,7 +149,7 @@ while n > 0:
 """
 
 """question 14: lcm of two numbers
-"""
+
 def lcmOfTwoNumbers(x, y):
    if x > y:
        greater = x
@@ -168,3 +168,6 @@ num1 = 54
 num2 = 24
 
 print("The L.C.M. is", lcmOfTwoNumbers(num1, num2))
+"""
+
+"""question 15: """
