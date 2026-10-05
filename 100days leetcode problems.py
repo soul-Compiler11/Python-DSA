@@ -168,10 +168,20 @@ class solution(object):
             ans ^= num
         return ans
 """
-
+"""
 # day 13 running sum of 1d array
 class Solution(object):
     def runningSum(self, nums):
         for i  in range(1, len(nums)):
             nums[i] = nums[i] + nums[i-1]
         return nums
+"""
+
+# day 13 shuffle the array
+class Solution(object):
+    def shuffle(self, nums, n):
+        arr = []
+        for i in range(0, n):
+            arr.append(nums[i])
+            arr.append(nums[i+n])
+        return arr
