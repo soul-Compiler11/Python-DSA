@@ -160,9 +160,18 @@ class Solution(object):
 """
 
 # day 13 single number
+"""
 class solution(object):
     def singleNumber(self, nums):
         ans = 0
         for num in nums:
             ans ^= num
         return ans
+"""
+
+# day 13 running sum of 1d array
+class Solution(object):
+    def runningSum(self, nums):
+        for i  in range(1, len(nums)):
+            nums[i] = nums[i] + nums[i-1]
+        return nums
