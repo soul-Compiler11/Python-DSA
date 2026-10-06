@@ -170,4 +170,19 @@ num2 = 24
 print("The L.C.M. is", lcmOfTwoNumbers(num1, num2))
 """
 
-"""question 15: """
+"""question 15:  hcf of two numbers
+"""
+def hcfOfTwoNumbers(x, y):
+    if x < y:
+        smaller = x
+    else:
+        smaller = y
+
+    for i in range(1, smaller + 1):
+        if (x % i == 0) and (y % i == 0):
+            hcf = i
+    return hcf
+
+num1 = 45
+num2 = 60
+print("The hcf is", hcfOfTwoNumbers(num1, num2))
