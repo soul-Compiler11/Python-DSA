@@ -171,7 +171,7 @@ print("The L.C.M. is", lcmOfTwoNumbers(num1, num2))
 """
 
 """question 15:  hcf of two numbers
-"""
+
 def hcfOfTwoNumbers(x, y):
     if x < y:
         smaller = x
@@ -186,3 +186,16 @@ def hcfOfTwoNumbers(x, y):
 num1 = 45
 num2 = 60
 print("The hcf is", hcfOfTwoNumbers(num1, num2))
+"""
+
+"""question 16: check duck number or not
+"""
+n = 1047
+has_zero = False
+while n > 0:
+    digit = n % 10
+    if digit == 0:
+        has_zero = True
+        print("duck")
+        break
+    n //= 10
