@@ -189,7 +189,6 @@ print("The hcf is", hcfOfTwoNumbers(num1, num2))
 """
 
 """question 16: check duck number or not
-"""
 n = 1047
 has_zero = False
 while n > 0:
@@ -199,3 +198,18 @@ while n > 0:
         print("duck")
         break
     n //= 10
+"""
+"""question 17: prime number or not"""
+num = 407
+if num == 0 or num == 1:
+    print(num, "is not a prime number")
+elif num > 1:
+   for i in range(2,num):
+       if (num % i) == 0:
+           print(num,"is not a prime number")
+           print(i,"times",num//i,"is",num)
+           break
+   else:
+       print(num,"is a prime number")
+else:
+   print(num,"is not a prime number")
