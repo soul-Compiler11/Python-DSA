@@ -213,3 +213,11 @@ class solution(object):
 
         return not stack
 """
+
+# day 15 length of last word
+class Solution(object):
+    def lengthOfLastWord(self, s):
+        word = s.strip().split(' ')
+        if not word:
+            return 0
+        return len(word[-1])
