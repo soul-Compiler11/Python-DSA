@@ -215,9 +215,28 @@ class solution(object):
 """
 
 # day 15 length of last word
+"""
 class Solution(object):
     def lengthOfLastWord(self, s):
         word = s.strip().split(' ')
         if not word:
             return 0
         return len(word[-1])
+"""
+# day 15 sqrt(x)
+class Solution(object):
+    def mySqrt(self, x):
+        if x < 2:
+            return x
+
+        left, right = 1, x // 2
+        while left <= right:
+            mid = (left + right) // 2
+            if mid * mid == x:
+                return mid
+            elif mid * mid < x:
+                left = mid + 1
+            else:
+                right = mid - 1
+
+        return right
