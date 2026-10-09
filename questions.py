@@ -199,7 +199,7 @@ while n > 0:
         break
     n //= 10
 """
-"""question 17: prime number or not"""
+"""question 17: prime number or not
 num = 407
 if num == 0 or num == 1:
     print(num, "is not a prime number")
@@ -213,3 +213,15 @@ elif num > 1:
        print(num,"is a prime number")
 else:
    print(num,"is not a prime number")
+"""
+
+""" question 18  binary to decimal conversion"""
+n = 1101
+decimal = 0
+power = 0
+while n > 0:
+    digit = n % 10
+    decimal += digit * (2 ** power)
+    n //= 10
+    power += 1
+print("Decimal conversion is: ", decimal) 
