@@ -227,10 +227,18 @@ while n > 0:
 print("Decimal conversion is: ", decimal) 
 """
 
-"""question 19: fibonacci series"""
+"""question 19: fibonacci series
 n = 10
 a, b = 0, 1
 for i in range(n):
     print(a, end = " ")
     a, b = b, a + b
-    
+"""
+
+"""question 20: power of number"""
+n = 2
+p = 5
+result = 1
+for i in range(p):
+    result = result * n
+print(f"{n} raised to the power {p} is: {result}")
