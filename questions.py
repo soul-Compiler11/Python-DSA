@@ -215,7 +215,7 @@ else:
    print(num,"is not a prime number")
 """
 
-""" question 18  binary to decimal conversion"""
+""" question 18  binary to decimal conversion
 n = 1101
 decimal = 0
 power = 0
@@ -225,3 +225,12 @@ while n > 0:
     n //= 10
     power += 1
 print("Decimal conversion is: ", decimal) 
+"""
+
+"""question 19: fibonacci series"""
+n = 10
+a, b = 0, 1
+for i in range(n):
+    print(a, end = " ")
+    a, b = b, a + b
+    
