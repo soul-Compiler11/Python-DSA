@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soul-Compiler11/Python-DSA/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/soul-Compiler11/Python-DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
 | [1470-shuffle-the-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/soul-Compiler11/Python-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/soul-Compiler11/Python-DSA/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
