@@ -244,6 +244,7 @@ class Solution(object):
 """
 
 # day 16 plus one
+"""
 class Solution(object):
   def plusOne(self, digits):
     n = len(digits)
@@ -253,3 +254,14 @@ class Solution(object):
         return digits
       digits[i] = 0
     return [1] + digits
+"""
+
+# day 16 climbing stairs
+class Solution(object):
+    def climbStairs(self, n):
+        if n <= 2:
+            return n
+        a, b = 1, 2
+        for _ in range(3, n + 1):
+            a, b = b, a + b
+        return b
