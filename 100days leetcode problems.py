@@ -224,6 +224,7 @@ class Solution(object):
         return len(word[-1])
 """
 # day 15 sqrt(x)
+"""
 class Solution(object):
     def mySqrt(self, x):
         if x < 2:
@@ -240,3 +241,15 @@ class Solution(object):
                 right = mid - 1
 
         return right
+"""
+
+# day 16 plus one
+class Solution(object):
+  def plusOne(self, digits):
+    n = len(digits)
+    for i in range(n-1, -1, -1):
+      if digits[i] < 9:
+        digits[i] += 1
+        return digits
+      digits[i] = 0
+    return [1] + digits
