@@ -10,6 +10,7 @@
 | [1470-shuffle-the-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/soul-Compiler11/Python-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/soul-Compiler11/Python-DSA/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/soul-Compiler11/Python-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
