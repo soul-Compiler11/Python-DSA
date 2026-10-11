@@ -235,10 +235,12 @@ for i in range(n):
     a, b = b, a + b
 """
 
-"""question 20: power of number"""
+"""question 20: power of number
 n = 2
 p = 5
 result = 1
 for i in range(p):
     result = result * n
 print(f"{n} raised to the power {p} is: {result}")
+"""
+

@@ -257,6 +257,7 @@ class Solution(object):
 """
 
 # day 16 climbing stairs
+"""
 class Solution(object):
     def climbStairs(self, n):
         if n <= 2:
@@ -265,3 +266,14 @@ class Solution(object):
         for _ in range(3, n + 1):
             a, b = b, a + b
         return b
+"""
+
+# day 17 sum of square of special elements
+class Solution(object):
+    def sumOfSquares(self, nums):
+        n = len(nums)
+        total = 0
+        for i in range(len(nums)):
+            if n % (i + 1) == 0:
+                total += nums[i] ** 2
+        return total
