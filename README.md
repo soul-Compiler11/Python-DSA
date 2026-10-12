@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0191-number-of-1-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/soul-Compiler11/Python-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
