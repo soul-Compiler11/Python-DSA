@@ -269,6 +269,7 @@ class Solution(object):
 """
 
 # day 17 sum of square of special elements
+"""
 class Solution(object):
     def sumOfSquares(self, nums):
         n = len(nums)
@@ -277,3 +278,13 @@ class Solution(object):
             if n % (i + 1) == 0:
                 total += nums[i] ** 2
         return total
+"""
+
+#  day 18 number of 1 bits
+class Solution(object):
+    def hammingWeight(self, n):
+        count = 0
+        while n:
+            count += n & 1
+            n >>= 1
+        return count
