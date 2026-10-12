@@ -281,6 +281,7 @@ class Solution(object):
 """
 
 #  day 18 number of 1 bits
+"""
 class Solution(object):
     def hammingWeight(self, n):
         count = 0
@@ -288,3 +289,18 @@ class Solution(object):
             count += n & 1
             n >>= 1
         return count
+"""
+
+# day 18 valid anagram
+class Solution(object):
+    def isAnagram(self, s, t):
+        if len(s) != len(t):
+            return False
+        counts = {}
+        for char in s:
+            counts [char] = counts.get(char, 0) + 1
+        for char in t:
+            if char not in counts or counts[char] == 0:
+                return False
+            counts[char] -= 1
+        return True
