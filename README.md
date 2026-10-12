@@ -19,6 +19,7 @@
 | [0014-longest-common-prefix](https://github.com/soul-Compiler11/Python-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/soul-Compiler11/Python-DSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -83,4 +84,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
