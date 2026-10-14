@@ -18,6 +18,7 @@
 | [0008-string-to-integer-atoi](https://github.com/soul-Compiler11/Python-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/soul-Compiler11/Python-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/soul-Compiler11/Python-DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 ## Trie
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soul-Compiler11/Python-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/soul-Compiler11/Python-DSA/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +95,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
