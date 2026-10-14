@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soul-Compiler11/Python-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0066-plus-one](https://github.com/soul-Compiler11/Python-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/soul-Compiler11/Python-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/soul-Compiler11/Python-DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -99,4 +102,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0022-generate-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
