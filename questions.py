@@ -244,3 +244,4 @@ for i in range(p):
 print(f"{n} raised to the power {p} is: {result}")
 """
 
+"""question 21: """
