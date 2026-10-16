@@ -244,4 +244,23 @@ for i in range(p):
 print(f"{n} raised to the power {p} is: {result}")
 """
 
-"""question 21: """
+"""question 21: happy number"""
+
+n = int(input("Enter a number: "))
+seen = set()
+
+while n != 1 and n not in seen:
+    seen.add(n)
+    total = 0
+
+    while n > 0:
+        digit = n % 10
+        total += digit ** 2
+        n = n // 10
+
+    n = total
+
+if n == 1:
+    print("Happy Number")
+else:
+    print("Not a Happy Number")

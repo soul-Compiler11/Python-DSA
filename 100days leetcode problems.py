@@ -330,6 +330,7 @@ class Solution:
 """
 
 # day 19 happy number
+"""
 class solution(object):
     def isHappy(self, n):
         seen = set()
@@ -344,3 +345,5 @@ class solution(object):
                 n //= 10
             n = total
         return True
+"""
+
