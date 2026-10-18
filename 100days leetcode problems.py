@@ -348,6 +348,7 @@ class solution(object):
 """
 
 # day 20 excel sheet column title
+"""
 class Solution(object):
     def convertToTitle(self, columnNumber):
         capitals = [chr(x) for x in range(ord('A'), ord('Z') + 1)]
@@ -357,3 +358,15 @@ class Solution(object):
             columnNumber = (columnNumber-1) // 26
         result.reverse()
         return ''.join(result)
+"""
+
+# day 20 excel sheet coumn number
+from string import ascii_uppercase as asc
+class Solution(object):
+    def titleToNumber(self, columnTitle):
+        d = {asc[i]: i+1 for i in range(len(asc))}
+        s = columnTitle[::-1]
+        count = 0
+        for i,j in enumerate(s):
+            count += d[j]*(26**i)
+        return count
