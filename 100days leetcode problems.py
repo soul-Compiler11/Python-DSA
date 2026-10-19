@@ -374,6 +374,20 @@ class Solution(object):
 """
 
 #  day 21 add binary
+"""
 class Solution(object):
     def addBinary(self, a, b):
         return bin(int(a,2) + int(b,2)).replace('0b', '')
+"""
+
+# day 21 power of two
+from numpy import True_
+
+
+class solution(object):
+    def isPowerOfTwo(self, n):
+        binary = bin(n).replace('0b', '')
+        if (n>=0 and binary.count('1') == 1):
+            return True
+        else:
+            return False
