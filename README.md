@@ -20,6 +20,7 @@
 | [0020-valid-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/soul-Compiler11/Python-DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/soul-Compiler11/Python-DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/soul-Compiler11/Python-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/soul-Compiler11/Python-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0191-number-of-1-bits) |
 ## Prefix Sum
@@ -54,6 +56,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/soul-Compiler11/Python-DSA/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/soul-Compiler11/Python-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/soul-Compiler11/Python-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/soul-Compiler11/Python-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/soul-Compiler11/Python-DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/soul-Compiler11/Python-DSA/tree/master/0168-excel-sheet-column-title) |
