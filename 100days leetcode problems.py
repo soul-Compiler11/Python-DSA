@@ -361,6 +361,7 @@ class Solution(object):
 """
 
 # day 20 excel sheet coumn number
+"""
 from string import ascii_uppercase as asc
 class Solution(object):
     def titleToNumber(self, columnTitle):
@@ -370,3 +371,9 @@ class Solution(object):
         for i,j in enumerate(s):
             count += d[j]*(26**i)
         return count
+"""
+
+#  day 21 add binary
+class Solution(object):
+    def addBinary(self, a, b):
+        return bin(int(a,2) + int(b,2)).replace('0b', '')
