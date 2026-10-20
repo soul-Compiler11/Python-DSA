@@ -24,6 +24,7 @@
 | [0168-excel-sheet-column-title](https://github.com/soul-Compiler11/Python-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
+| [0504-base-7](https://github.com/soul-Compiler11/Python-DSA/tree/master/0504-base-7) |
 ## Trie
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0171-excel-sheet-column-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
+| [0504-base-7](https://github.com/soul-Compiler11/Python-DSA/tree/master/0504-base-7) |
 ## Binary Search
 |  |
 | ------- |
