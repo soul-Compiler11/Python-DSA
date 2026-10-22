@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/soul-Compiler11/Python-DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
@@ -80,6 +81,7 @@
 | [0171-excel-sheet-column-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
 | [0504-base-7](https://github.com/soul-Compiler11/Python-DSA/tree/master/0504-base-7) |
 ## Binary Search
 |  |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
