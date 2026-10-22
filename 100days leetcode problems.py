@@ -392,6 +392,7 @@ class solution(object):
 """
 
 # day 22 base 7
+"""
 class Solution(object):
     def convertToBase7(self, num):
         result = ''
@@ -406,3 +407,16 @@ class Solution(object):
             return '-' +result[::-1]
         else:
             return result[::-1]
+"""
+
+# day 23 add digits
+class Solution(object):
+    def SumOfDigits(num):
+        summ = 0
+        for i in str(num):
+            summ += int(i)
+        return summ
+    def addDigits(self, num):
+        while(len(str(num)) != 1):
+            num = self.SumOfDigits(num)
+        return num
