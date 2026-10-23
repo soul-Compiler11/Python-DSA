@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/soul-Compiler11/Python-DSA/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/soul-Compiler11/Python-DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1929-concatenation-of-array) |
@@ -51,6 +52,7 @@
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,11 +84,13 @@
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/soul-Compiler11/Python-DSA/tree/master/0504-base-7) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/soul-Compiler11/Python-DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -108,10 +112,12 @@
 | ------- |
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
