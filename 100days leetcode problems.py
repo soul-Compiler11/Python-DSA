@@ -410,6 +410,7 @@ class Solution(object):
 """
 
 # day 23 add digits
+"""
 class Solution(object):
     def SumOfDigits(num):
         summ = 0
@@ -420,3 +421,14 @@ class Solution(object):
         while(len(str(num)) != 1):
             num = self.SumOfDigits(num)
         return num
+"""
+
+# day 24 missing number
+class Solution(object):
+    def missingNumber(self, nums):
+        nums_set = set(nums)
+        n = len(nums) + 1
+        for number in range(n):
+            if number not in nums_set:
+                return number
+            
