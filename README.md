@@ -26,6 +26,7 @@
 | [0171-excel-sheet-column-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0504-base-7](https://github.com/soul-Compiler11/Python-DSA/tree/master/0504-base-7) |
+| [2409-count-days-spent-together](https://github.com/soul-Compiler11/Python-DSA/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/soul-Compiler11/Python-DSA/tree/master/0504-base-7) |
+| [2409-count-days-spent-together](https://github.com/soul-Compiler11/Python-DSA/tree/master/2409-count-days-spent-together) |
 ## Binary Search
 |  |
 | ------- |
