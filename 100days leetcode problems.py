@@ -435,6 +435,7 @@ class Solution(object):
 """
 
 #  day 25 count days spent together
+"""
 class Solution(object):
     def countDaysTogether(self, arriveAlice, leaveAlice, arriveBob, leaveBob):
         start = max(arriveAlice, arriveBob)
@@ -446,3 +447,23 @@ class Solution(object):
             month, day = map(int, date.split('-'))
             return sum(days[:month-1]) + day
         return day_of_year(end) - day_of_year(start) + 1
+"""
+
+# day 26 count primes
+class Solution(object):
+    def countPrimes(self, n):
+        truth = [True] * n
+
+        if n < 2:
+            return 0
+
+        truth[0], truth[1] = False, False
+
+        i = 2
+        while i * i < n:
+            if truth[i]:
+                for j in range(i * i, n, i):
+                    truth[j] = False
+            i += 1
+
+        return truth.count(True)
