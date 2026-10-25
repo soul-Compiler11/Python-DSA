@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/soul-Compiler11/Python-DSA/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/soul-Compiler11/Python-DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -83,6 +84,7 @@
 | [0168-excel-sheet-column-title](https://github.com/soul-Compiler11/Python-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
@@ -104,6 +106,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/soul-Compiler11/Python-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
 |  |
@@ -135,5 +138,18 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
