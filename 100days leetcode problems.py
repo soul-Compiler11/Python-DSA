@@ -450,6 +450,7 @@ class Solution(object):
 """
 
 # day 26 count primes
+"""
 class Solution(object):
     def countPrimes(self, n):
         truth = [True] * n
@@ -467,3 +468,12 @@ class Solution(object):
             i += 1
 
         return truth.count(True)
+"""
+
+# day 27 reverse string
+class Solution(object):
+    def reverseString(self, s):
+       left, right = 0 , len(s) - 1
+       while left < right:
+           s[left], s[right] = s[right], s[left]
+           left, right = left + 1, right - 1
