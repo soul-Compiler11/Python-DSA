@@ -471,9 +471,21 @@ class Solution(object):
 """
 
 # day 27 reverse string
+"""
 class Solution(object):
     def reverseString(self, s):
        left, right = 0 , len(s) - 1
        while left < right:
            s[left], s[right] = s[right], s[left]
            left, right = left + 1, right - 1
+"""
+
+# day 27 two sum II input array is sorted
+class Solution(object):
+    def removeDuplicates(self, nums):
+        i = 0
+        while (i < len(nums)):
+            j = i + 1
+            while (j < len(nums) and nums[i] == nums[j]):
+                nums.pop(i)
+            i = j
