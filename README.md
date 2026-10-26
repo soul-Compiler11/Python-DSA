@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soul-Compiler11/Python-DSA/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/soul-Compiler11/Python-DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soul-Compiler11/Python-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/soul-Compiler11/Python-DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
