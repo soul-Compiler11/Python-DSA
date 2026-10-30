@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/soul-Compiler11/Python-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/soul-Compiler11/Python-DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/soul-Compiler11/Python-DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
@@ -22,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/soul-Compiler11/Python-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/soul-Compiler11/Python-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/soul-Compiler11/Python-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/soul-Compiler11/Python-DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/soul-Compiler11/Python-DSA/tree/master/0168-excel-sheet-column-title) |
@@ -119,12 +121,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/soul-Compiler11/Python-DSA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/soul-Compiler11/Python-DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 ## Backtracking
