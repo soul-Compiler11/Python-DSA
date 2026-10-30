@@ -481,6 +481,7 @@ class Solution(object):
 """
 
 # day 27 two sum II input array is sorted
+"""
 class Solution(object):
     def removeDuplicates(self, nums):
         i = 0
@@ -489,3 +490,15 @@ class Solution(object):
             while (j < len(nums) and nums[i] == nums[j]):
                 nums.pop(i)
             i = j
+"""
+
+# day 28 group anagrams
+class Solution(object):
+    def groupAnagrams(self, strs):
+        d = {}
+        for word in strs:
+            key = ''.join(sorted(word))
+            if key not in d:
+                d[key] = []
+            d[key].append(word)
+        return list(d.values())
