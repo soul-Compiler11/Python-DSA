@@ -506,6 +506,7 @@ class Solution(object):
 """
 
 # day 29 add strings
+"""
 class solution(object):
     def addStrings(self, num1, num2):
         res = []
@@ -523,3 +524,14 @@ class solution(object):
         if carry:
             res.append(carry)
         return ''.join(str(x) for x in res[::-1])
+"""
+
+# day 29 fibonacci number
+class Solution(object):
+    def fib(self, n):
+        if n <= 1:
+            return n
+        a, b = 0, 1
+        for _ in range(2, n + 1):
+            a, b = b, a + b
+        return b
