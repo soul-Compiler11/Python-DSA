@@ -30,6 +30,7 @@
 | [0171-excel-sheet-column-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soul-Compiler11/Python-DSA/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/soul-Compiler11/Python-DSA/tree/master/0504-base-7) |
 | [2409-count-days-spent-together](https://github.com/soul-Compiler11/Python-DSA/tree/master/2409-count-days-spent-together) |
 ## Trie
@@ -70,6 +71,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/soul-Compiler11/Python-DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
@@ -94,6 +96,7 @@
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/soul-Compiler11/Python-DSA/tree/master/0504-base-7) |
 | [2409-count-days-spent-together](https://github.com/soul-Compiler11/Python-DSA/tree/master/2409-count-days-spent-together) |
 ## Binary Search
