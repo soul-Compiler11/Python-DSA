@@ -99,6 +99,7 @@
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/soul-Compiler11/Python-DSA/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0509-fibonacci-number) |
 | [2409-count-days-spent-together](https://github.com/soul-Compiler11/Python-DSA/tree/master/2409-count-days-spent-together) |
 ## Binary Search
