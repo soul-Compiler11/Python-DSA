@@ -527,6 +527,7 @@ class solution(object):
 """
 
 # day 29 fibonacci number
+"""
 class Solution(object):
     def fib(self, n):
         if n <= 1:
@@ -535,3 +536,15 @@ class Solution(object):
         for _ in range(2, n + 1):
             a, b = b, a + b
         return b
+""" 
+
+# day 29 perfect number
+class Solution(object):
+    def checkPerfectnumber(self, num):
+        sum = 0
+        for i in range(1, int(num**0.5) + 1):
+            if (num % i == 0):
+                sum += i
+                if (i * i != num):
+                    sum += num //i
+        return sum - num == num
