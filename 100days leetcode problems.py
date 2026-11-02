@@ -538,7 +538,8 @@ class Solution(object):
         return b
 """ 
 
-# day 29 perfect number
+# day 30 perfect number
+"""
 class Solution(object):
     def checkPerfectnumber(self, num):
         sum = 0
@@ -548,3 +549,18 @@ class Solution(object):
                 if (i * i != num):
                     sum += num //i
         return sum - num == num
+"""
+
+# day 30 converting a number into hexadecimal
+class Solution(object):
+    def toHex(self, num):
+        if num == 0:
+            return "0"
+        characters = "0123456789abcdef"
+        result = ""
+        while num < 0:
+            num += 2**32
+        while num > 0:
+            result = characters[num % 16] + result
+            num //= 16
+        return result
