@@ -552,6 +552,7 @@ class Solution(object):
 """
 
 # day 30 converting a number into hexadecimal
+"""
 class Solution(object):
     def toHex(self, num):
         if num == 0:
@@ -564,3 +565,10 @@ class Solution(object):
             result = characters[num % 16] + result
             num //= 16
         return result
+"""
+
+# day 31 minimum moves to equal array elements
+class Solution(object):
+    def minMoves(self, nums):
+        mx = max(nums)
+        return sum(mx - x for x in nums)
