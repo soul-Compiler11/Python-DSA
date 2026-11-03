@@ -15,6 +15,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/soul-Compiler11/Python-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/soul-Compiler11/Python-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0507-perfect-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0509-fibonacci-number) |
 | [2409-count-days-spent-together](https://github.com/soul-Compiler11/Python-DSA/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/soul-Compiler11/Python-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
