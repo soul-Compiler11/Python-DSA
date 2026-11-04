@@ -30,6 +30,7 @@
 | [0125-valid-palindrome](https://github.com/soul-Compiler11/Python-DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/soul-Compiler11/Python-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soul-Compiler11/Python-DSA/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soul-Compiler11/Python-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/soul-Compiler11/Python-DSA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 ## Sorting
