@@ -568,7 +568,22 @@ class Solution(object):
 """
 
 # day 31 minimum moves to equal array elements
+"""
 class Solution(object):
     def minMoves(self, nums):
         mx = max(nums)
         return sum(mx - x for x in nums)
+"""
+
+# day 32 valid palindrome
+class Solution(object):
+    def isPalindrome(self, s):
+        r = ''
+        for i in s:
+            if (i.isalnum()):
+                r += i
+        r = r.lower()
+        if (r == r[::-1]):
+            return True
+        else:
+            return False
