@@ -591,6 +591,7 @@ class Solution(object):
 """
 
 #  day 32 isomorphic strings
+"""
 class Solution(object):
     def isIsomorphic(self, s, t):
         if (len(s) != len(t)):
@@ -607,3 +608,20 @@ class Solution(object):
             return True
         else:
             return False
+"""
+
+# day 33 longest palindrome
+class Solution(object):
+    def longestPalndrome(self, s):
+        length = 0
+        count = {}
+        for i in s:
+            if (i not in count):
+                count[i] = 1
+            else:
+                count[i] += 1
+        for k,v in count.items():
+            length += v // 2 * 2
+            if (length % 2 == 0 and v % 2 == 1):
+                length += 1
+        return length
