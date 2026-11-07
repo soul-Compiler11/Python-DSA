@@ -611,6 +611,7 @@ class Solution(object):
 """
 
 # day 33 longest palindrome
+"""
 class Solution(object):
     def longestPalndrome(self, s):
         length = 0
@@ -625,3 +626,12 @@ class Solution(object):
             if (length % 2 == 0 and v % 2 == 1):
                 length += 1
         return length
+"""
+
+# day 34 gray code
+class Solution(object):
+    def graycode(self, n):
+        res = []
+        for x in range(0, 2**n):
+            res.append(x ^ (x >> 1))
+        return res
