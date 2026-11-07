@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/soul-Compiler11/Python-DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/soul-Compiler11/Python-DSA/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
@@ -97,6 +98,7 @@
 | [0067-add-binary](https://github.com/soul-Compiler11/Python-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/soul-Compiler11/Python-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/soul-Compiler11/Python-DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/soul-Compiler11/Python-DSA/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/soul-Compiler11/Python-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/soul-Compiler11/Python-DSA/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/soul-Compiler11/Python-DSA/tree/master/0089-gray-code) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
