@@ -163,6 +163,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/soul-Compiler11/Python-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0509-fibonacci-number) |
 ## Number Theory
@@ -186,4 +187,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/soul-Compiler11/Python-DSA/tree/master/0409-longest-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/soul-Compiler11/Python-DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
