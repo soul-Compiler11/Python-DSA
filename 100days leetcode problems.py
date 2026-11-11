@@ -639,6 +639,7 @@ class Solution(object):
 """
 
 # day 34 merge two sorted lists
+"""
 class Solution(object):
     def mergeTwoLists(self, list1, list2):
         head = ListNode()
@@ -657,3 +658,21 @@ class Solution(object):
             temp3.next = temp2
         head = head.next
         return head
+"""
+
+# day 35 zigzag conversion
+class Solution(object):
+    def convert(self, s, numRows):
+        if numRows == 1 or numRows >= len(s):
+            return s
+        L = [''] * numRows
+        index = 0
+        step = 1
+        for x in s:
+            L[index] += x
+            if index == 0:
+                step = 1
+            elif index == numRows - 1:
+                step = -1
+            index += step
+        return "".join(L)
