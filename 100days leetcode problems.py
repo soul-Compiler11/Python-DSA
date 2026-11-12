@@ -661,6 +661,7 @@ class Solution(object):
 """
 
 # day 35 zigzag conversion
+"""
 class Solution(object):
     def convert(self, s, numRows):
         if numRows == 1 or numRows >= len(s):
@@ -676,3 +677,14 @@ class Solution(object):
                 step = -1
             index += step
         return "".join(L)
+"""
+
+# day 36 find the difference
+class Solution(object):
+    def findTheDifference(self, s, t):
+        count_s, count_t = 0, 0
+        for i in s:
+            count_s += ord(i)
+        for i in t:
+            count_t += ord(i)
+        return chr(count_t - count_s)
