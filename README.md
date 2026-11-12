@@ -34,6 +34,7 @@
 | [0205-isomorphic-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soul-Compiler11/Python-DSA/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/soul-Compiler11/Python-DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soul-Compiler11/Python-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/soul-Compiler11/Python-DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0415-add-strings) |
@@ -71,6 +72,7 @@
 | [0191-number-of-1-bits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/soul-Compiler11/Python-DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soul-Compiler11/Python-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Prefix Sum
 |  |
@@ -145,6 +147,7 @@
 | [0205-isomorphic-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/soul-Compiler11/Python-DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/soul-Compiler11/Python-DSA/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
@@ -152,6 +155,7 @@
 | [0049-group-anagrams](https://github.com/soul-Compiler11/Python-DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/soul-Compiler11/Python-DSA/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
