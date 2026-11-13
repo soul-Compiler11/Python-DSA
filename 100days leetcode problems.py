@@ -680,6 +680,7 @@ class Solution(object):
 """
 
 # day 36 find the difference
+"""
 class Solution(object):
     def findTheDifference(self, s, t):
         count_s, count_t = 0, 0
@@ -688,3 +689,17 @@ class Solution(object):
         for i in t:
             count_t += ord(i)
         return chr(count_t - count_s)
+"""
+
+# day 37 find the index of the first occurrence in a string
+class Soluton(object):
+    def strStr(self, haystack, needle):
+        if needle in haystack:
+            return haystack.index(needle)
+        return -1
+        for i in range(len(haystack)):
+            for j in range(len(needle)):
+                if haystack[i + j] != needle[j]:
+                    break
+                else:
+                    return i
