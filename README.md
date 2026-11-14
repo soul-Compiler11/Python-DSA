@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/soul-Compiler11/Python-DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/soul-Compiler11/Python-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/soul-Compiler11/Python-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -147,6 +148,7 @@
 | [0049-group-anagrams](https://github.com/soul-Compiler11/Python-DSA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/soul-Compiler11/Python-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/soul-Compiler11/Python-DSA/tree/master/0389-find-the-difference) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/soul-Compiler11/Python-DSA/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/soul-Compiler11/Python-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/soul-Compiler11/Python-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/soul-Compiler11/Python-DSA/tree/master/0389-find-the-difference) |
