@@ -692,6 +692,7 @@ class Solution(object):
 """
 
 # day 37 find the index of the first occurrence in a string
+"""
 class Soluton(object):
     def strStr(self, haystack, needle):
         if needle in haystack:
@@ -703,3 +704,14 @@ class Soluton(object):
                     break
                 else:
                     return i
+"""
+
+# day 38 contains duplicate
+class Solution(object):
+    def ContainDuplicate(self, nums):
+        s = set()
+        for i in nums:
+            if (i in s):
+                return True
+            s.add(i)
+        return False
