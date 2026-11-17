@@ -738,6 +738,7 @@ class Solution(object):
 """
 
 # day 40 calculate digit sum of a string
+"""
 class Solution(object):
     def digitSum(self, s, k):
         while len(s) > k:
@@ -748,3 +749,14 @@ class Solution(object):
                 new_s += str(group_sum)
             s = new_s
         return s
+"""
+
+# day 41 remove element
+class Solution(object):
+    def removeElement(self, nums, val):
+        i = 0
+        for j in range(len(nums)):
+            if nums[j] != val:
+                nums[i] = nums[j]
+                i += 1
+        return i
