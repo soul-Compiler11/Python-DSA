@@ -752,6 +752,7 @@ class Solution(object):
 """
 
 # day 41 remove element
+"""
 class Solution(object):
     def removeElement(self, nums, val):
         i = 0
@@ -760,3 +761,14 @@ class Solution(object):
                 nums[i] = nums[j]
                 i += 1
         return i
+"""
+
+# day 41 ugly number
+class Solution(object):
+    def isUgly(self, n):
+        if n <= 0:
+            return False
+        for x in [2, 3, 5]:
+            while n % x == 0:
+                n = n / x
+        return n == 1
