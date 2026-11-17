@@ -118,6 +118,7 @@
 | [0204-count-primes](https://github.com/soul-Compiler11/Python-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/soul-Compiler11/Python-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/soul-Compiler11/Python-DSA/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/soul-Compiler11/Python-DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/soul-Compiler11/Python-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/soul-Compiler11/Python-DSA/tree/master/0415-add-strings) |
