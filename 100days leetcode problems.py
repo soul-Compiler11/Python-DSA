@@ -764,6 +764,7 @@ class Solution(object):
 """
 
 # day 41 ugly number
+"""
 class Solution(object):
     def isUgly(self, n):
         if n <= 0:
@@ -772,3 +773,19 @@ class Solution(object):
             while n % x == 0:
                 n = n / x
         return n == 1
+"""
+
+# day 42 3sum
+class Solution(object):
+    def threeSum(self, nums):
+        result = set()
+        for i in range(0, len(nums)):
+            my_set = set()
+            for j in range(i + 1, len(nums)):
+                third = -(nums[i] + nums[j])
+                if third in my_set:
+                    temp = [nums[i], nums[j], third]
+                    temp.sort()
+                    result.add(tuple(temp))
+                my_set.add(nums[j])
+        return [list(ans) for ans in result]
