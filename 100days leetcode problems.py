@@ -776,6 +776,7 @@ class Solution(object):
 """
 
 # day 42 3sum
+"""
 class Solution(object):
     def threeSum(self, nums):
         result = set()
@@ -789,3 +790,17 @@ class Solution(object):
                     result.add(tuple(temp))
                 my_set.add(nums[j])
         return [list(ans) for ans in result]
+"""
+
+# day 42 max consecutive ones
+class Solution(object):
+    def findMaxConsecutiveOnes(self, nums):
+        count = 0 
+        max_count = 0
+        for i in range(0, len(nums)):
+            if nums[i] == 1:
+                count += 1
+            else:
+                max_count = max(max_count, count)
+                count = 0
+        return max(max_count, count)
