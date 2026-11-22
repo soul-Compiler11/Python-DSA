@@ -793,6 +793,7 @@ class Solution(object):
 """
 
 # day 42 max consecutive ones
+"""
 class Solution(object):
     def findMaxConsecutiveOnes(self, nums):
         count = 0 
@@ -804,3 +805,15 @@ class Solution(object):
                 max_count = max(max_count, count)
                 count = 0
         return max(max_count, count)
+"""
+
+# day 43 check if all 'a's appear before all 'b's
+class Solution(object):
+    def checkString(self, s):
+        found_b = False
+        for char in s:
+            if char == 'b':
+                found_b = True
+            elif char == 'a' and found_b:
+                return False
+        return True
